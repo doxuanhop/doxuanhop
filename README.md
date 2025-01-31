@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ### Languages
 
-- [Language 1]
-- [Language 2]
+- [HTML]
+- [CSS]
 
 ### Frameworks and Libraries
 
